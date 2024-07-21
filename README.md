@@ -13,6 +13,9 @@ This project is a website design featuring a stylish layout with various compone
 - **'style.css':** Contains the core styles for the website, including layout, color schemes, typography, and responsive design elements.
 - **'index.html':** The main HTML file for the website, defining the structure and content, including the header, main banner, food cards, content area, sidebar menu, and footer.
 
+## Deep Note
+
+- **Note: This stylesheet does not include responsive design features!**
 
 ## Features
 
